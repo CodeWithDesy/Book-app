@@ -119,7 +119,7 @@ Fork the repo
 
 Clone your fork
 
-git clone https://github.com/your-username/book-app-backend.git
+git clone https://github.com/CodeWithDesy/Book-app.git
 
 
 Install dependencies
